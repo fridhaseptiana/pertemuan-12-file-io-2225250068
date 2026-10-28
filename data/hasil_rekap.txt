@@ -1,0 +1,6 @@
+REKAP NILAI MAHASISWA
+Jumlah data valid: 8
+Rata-rata: 83.75
+Nilai minimum: 74.00
+Nilai maksimum: 92.00
+Jumlah lulus (nilai >= 60): 8
